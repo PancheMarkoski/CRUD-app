@@ -1,0 +1,35 @@
+.Menu {
+  margin-bottom: 3%;
+}
+
+.Header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.HeaderItems {
+  float: left;
+}
+
+.HeaderLinks {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.HeaderLinksRight {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  float: right;
+}
+
+.HeaderLinksRight:hover {
+  background-color: #111;
+}
